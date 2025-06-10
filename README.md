@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, Let's connect
 
 <!--
 **alecswang/alecswang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
