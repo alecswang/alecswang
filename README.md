@@ -21,7 +21,6 @@ Thanks for stopping by! I'm a developer passionate about building tools that mak
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
-[![Processing](https://img.shields.io/badge/-Processing-333?style=flat&logo=processing)](#)
 [![p5.js](https://img.shields.io/badge/-p5.js-333?style=flat&logo=p5.js)](#)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
