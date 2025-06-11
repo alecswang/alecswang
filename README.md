@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Wang
 
-Welcome to my GitHub! I'm a developer passionate about building tools that make life easier.
+Thanks for stopping by! I'm a developer passionate about building tools that make life easier. Feel free to check out my repositories or connect with me.
 
 ## 🚀 About Me
 
@@ -27,7 +27,3 @@ Welcome to my GitHub! I'm a developer passionate about building tools that make 
 ![Processing](https://img.shields.io/badge/-Processing-333?style=flat&logo=processing)
 ![p5.js](https://img.shields.io/badge/-p5.js-333?style=flat&logo=p5.js)
 ![Unity](https://img.shields.io/badge/-Unity-333?style=flat&logo=unity)
-
----
-
-Thanks for stopping by! Feel free to check out my repositories or connect with me.
